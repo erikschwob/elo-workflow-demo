@@ -29,7 +29,7 @@ working with production ELO systems.
 - [API overview](#api-overview)
 - [End-to-end example](#end-to-end-example)
 - [Roadmap](#roadmap)
-- [AI Engineering note](#ai-engineering-note)
+- [Engineering note](#engineering-note)
 
 ---
 
@@ -194,11 +194,12 @@ Planned next features — tracked as [GitHub Issues](https://github.com/erikschw
 
 ---
 
-## AI Engineering note
+## Engineering note
 
-This project was developed with AI pair-programming tools to accelerate implementation.
-Domain modelling, architecture decisions, and the ELO concept mapping are the author's own work;
-AI assistance was used for implementation speed and boilerplate reduction.
+I designed this project: the domain modelling, the architecture decisions and the
+mapping of ELO ECM concepts onto the implementation are my own work. I used AI
+pair-programming tools to accelerate implementation and reduce boilerplate, and
+reviewed all code before committing it.
 
 ---
 
